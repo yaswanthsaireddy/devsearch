@@ -1,4 +1,5 @@
 //GET SEARCH FORM AND PAGE LINKS
+//Added line
 let searchForm = document.getElementById('searchForm')
 let pageLinks = document.getElementsByClassName('page-link')
 
